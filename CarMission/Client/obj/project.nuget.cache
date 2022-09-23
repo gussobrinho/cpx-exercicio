@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "saCDXE6GL2hBVdVpRbkuAt6Y2CaLSlKWIp+Dc2wJwqrVqDD7qMXVRqLvW+rvwbqG/YitGE0pX0gSSByrJw1M0A==",
+  "dgSpecHash": "jFl29UjdYPtOOSzFGmrr6SDPF8sQBw7vTrmhtD1f5qqvOVuAOUZQc2g9BE29JL8v0ekqmKf9SfWYS8Bs9ONeKg==",
   "success": true,
-  "projectFilePath": "D:\\ServerFiveM\\server-content\\server-data\\resources\\[myscripts]\\CarMission\\Client\\CarMission.Client.csproj",
+  "projectFilePath": "D:\\Pessoal\\cpx-exercicio\\CarMission\\Client\\CarMission.Client.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gusta\\.nuget\\packages\\citizenfx.core.client\\1.0.5893\\citizenfx.core.client.1.0.5893.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\citizenfx.core.client\\1.0.5895\\citizenfx.core.client.1.0.5895.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\citizenfx.framework.client\\0.2.3\\citizenfx.framework.client.0.2.3.nupkg.sha512"
   ],
   "logs": []

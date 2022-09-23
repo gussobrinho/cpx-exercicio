@@ -9,3 +9,14 @@ D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Clien
 D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Client\obj\Release\net452\CarMission.Client.net.dll
 D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Client\obj\Release\net452\CarMission.Client.csproj.GenerateResource.cache
 D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Client\obj\Release\net452\CarMission.Client.Common.Messages.MessagesResource.resources
+D:\Pessoal\cpx-exercicio\CarMission\Client\bin\Release\net452\CarMission.Client.net.dll
+D:\Pessoal\cpx-exercicio\CarMission\Client\bin\Release\net452\CitizenFX.Core.Client.dll
+D:\Pessoal\cpx-exercicio\CarMission\Client\obj\Release\net452\CarMission.Client.csproj.AssemblyReference.cache
+D:\Pessoal\cpx-exercicio\CarMission\Client\obj\Release\net452\CarMission.Client.Common.Messages.MessagesResource.resources
+D:\Pessoal\cpx-exercicio\CarMission\Client\obj\Release\net452\CarMission.Client.csproj.GenerateResource.cache
+D:\Pessoal\cpx-exercicio\CarMission\Client\obj\Release\net452\CarMission.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pessoal\cpx-exercicio\CarMission\Client\obj\Release\net452\CarMission.Client.AssemblyInfoInputs.cache
+D:\Pessoal\cpx-exercicio\CarMission\Client\obj\Release\net452\CarMission.Client.AssemblyInfo.cs
+D:\Pessoal\cpx-exercicio\CarMission\Client\obj\Release\net452\CarMission.Client.csproj.CoreCompileInputs.cache
+D:\Pessoal\cpx-exercicio\CarMission\Client\obj\Release\net452\CarMission.Client.csproj.CopyComplete
+D:\Pessoal\cpx-exercicio\CarMission\Client\obj\Release\net452\CarMission.Client.net.dll

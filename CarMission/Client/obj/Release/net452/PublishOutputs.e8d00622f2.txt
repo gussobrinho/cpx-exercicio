@@ -1,0 +1,2 @@
+D:\Pessoal\cpx-exercicio\CarMission\Client\bin\Release\net452\publish\CarMission.Client.net.dll
+D:\Pessoal\cpx-exercicio\CarMission\Client\bin\Release\net452\publish\CitizenFX.Core.Client.dll

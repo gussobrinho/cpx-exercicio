@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ServerFiveM\\server-content\\server-data\\resources\\[myscripts]\\CarMission\\Client\\CarMission.Client.csproj": {}
+    "D:\\Pessoal\\cpx-exercicio\\CarMission\\Client\\CarMission.Client.csproj": {}
   },
   "projects": {
-    "D:\\ServerFiveM\\server-content\\server-data\\resources\\[myscripts]\\CarMission\\Client\\CarMission.Client.csproj": {
+    "D:\\Pessoal\\cpx-exercicio\\CarMission\\Client\\CarMission.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ServerFiveM\\server-content\\server-data\\resources\\[myscripts]\\CarMission\\Client\\CarMission.Client.csproj",
+        "projectUniqueName": "D:\\Pessoal\\cpx-exercicio\\CarMission\\Client\\CarMission.Client.csproj",
         "projectName": "CarMission.Client",
-        "projectPath": "D:\\ServerFiveM\\server-content\\server-data\\resources\\[myscripts]\\CarMission\\Client\\CarMission.Client.csproj",
+        "projectPath": "D:\\Pessoal\\cpx-exercicio\\CarMission\\Client\\CarMission.Client.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "D:\\ServerFiveM\\server-content\\server-data\\resources\\[myscripts]\\CarMission\\Client\\obj\\",
+        "outputPath": "D:\\Pessoal\\cpx-exercicio\\CarMission\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",

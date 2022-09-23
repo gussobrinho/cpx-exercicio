@@ -8,3 +8,13 @@ D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Serve
 D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Server\obj\Release\netstandard2.0\CarMission.Server.csproj.CoreCompileInputs.cache
 D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Server\obj\Release\netstandard2.0\CarMission.Server.net.dll
 D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Server\obj\Release\netstandard2.0\CarMission.Server.net.pdb
+D:\Pessoal\cpx-exercicio\CarMission\Server\bin\Release\netstandard2.0\CarMission.Server.deps.json
+D:\Pessoal\cpx-exercicio\CarMission\Server\bin\Release\netstandard2.0\CarMission.Server.net.dll
+D:\Pessoal\cpx-exercicio\CarMission\Server\bin\Release\netstandard2.0\CarMission.Server.net.pdb
+D:\Pessoal\cpx-exercicio\CarMission\Server\obj\Release\netstandard2.0\CarMission.Server.csproj.AssemblyReference.cache
+D:\Pessoal\cpx-exercicio\CarMission\Server\obj\Release\netstandard2.0\CarMission.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pessoal\cpx-exercicio\CarMission\Server\obj\Release\netstandard2.0\CarMission.Server.AssemblyInfoInputs.cache
+D:\Pessoal\cpx-exercicio\CarMission\Server\obj\Release\netstandard2.0\CarMission.Server.AssemblyInfo.cs
+D:\Pessoal\cpx-exercicio\CarMission\Server\obj\Release\netstandard2.0\CarMission.Server.csproj.CoreCompileInputs.cache
+D:\Pessoal\cpx-exercicio\CarMission\Server\obj\Release\netstandard2.0\CarMission.Server.net.dll
+D:\Pessoal\cpx-exercicio\CarMission\Server\obj\Release\netstandard2.0\CarMission.Server.net.pdb

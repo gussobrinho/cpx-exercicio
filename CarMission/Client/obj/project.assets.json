@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETFramework,Version=v4.5.2": {
-      "CitizenFX.Core.Client/1.0.5893": {
+      "CitizenFX.Core.Client/1.0.5895": {
         "type": "package",
         "compile": {
           "lib/net45/CitizenFX.Core.Client.dll": {
@@ -18,14 +18,14 @@
     }
   },
   "libraries": {
-    "CitizenFX.Core.Client/1.0.5893": {
-      "sha512": "RKhKklUbh85Qi+jP+7dVL4hPPjthpmcsKzVob+cFFMBEB+U3rTdABYCSObA4vaE2LZV3PdC/mhZsJoyO/MjSEw==",
+    "CitizenFX.Core.Client/1.0.5895": {
+      "sha512": "IczZ3v0MtaTD4cNyvHNybiVqmWOPiqOn0sPal3Lo181Yeuy0XHEzmRDMWR3PoQ8owX3q29wI7InIYmUtRVbb3Q==",
       "type": "package",
-      "path": "citizenfx.core.client/1.0.5893",
+      "path": "citizenfx.core.client/1.0.5895",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "citizenfx.core.client.1.0.5893.nupkg.sha512",
+        "citizenfx.core.client.1.0.5895.nupkg.sha512",
         "citizenfx.core.client.nuspec",
         "lib/net45/CitizenFX.Core.Client.dll",
         "lib/net45/CitizenFX.Core.Client.xml"
@@ -43,11 +43,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ServerFiveM\\server-content\\server-data\\resources\\[myscripts]\\CarMission\\Client\\CarMission.Client.csproj",
+      "projectUniqueName": "D:\\Pessoal\\cpx-exercicio\\CarMission\\Client\\CarMission.Client.csproj",
       "projectName": "CarMission.Client",
-      "projectPath": "D:\\ServerFiveM\\server-content\\server-data\\resources\\[myscripts]\\CarMission\\Client\\CarMission.Client.csproj",
+      "projectPath": "D:\\Pessoal\\cpx-exercicio\\CarMission\\Client\\CarMission.Client.csproj",
       "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-      "outputPath": "D:\\ServerFiveM\\server-content\\server-data\\resources\\[myscripts]\\CarMission\\Client\\obj\\",
+      "outputPath": "D:\\Pessoal\\cpx-exercicio\\CarMission\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",

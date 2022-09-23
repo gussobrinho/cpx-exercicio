@@ -1,0 +1,4 @@
+D:\Pessoal\cpx-exercicio\CarMission\Server\bin\Release\netstandard2.0\publish\CarMission.Server.net.dll
+D:\Pessoal\cpx-exercicio\CarMission\Server\bin\Release\netstandard2.0\publish\CarMission.Server.deps.json
+D:\Pessoal\cpx-exercicio\CarMission\Server\bin\Release\netstandard2.0\publish\CarMission.Server.net.pdb
+D:\Pessoal\cpx-exercicio\CarMission\Server\bin\Release\netstandard2.0\publish\CitizenFX.Core.Server.dll
