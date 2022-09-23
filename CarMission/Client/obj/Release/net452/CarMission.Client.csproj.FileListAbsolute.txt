@@ -1,0 +1,11 @@
+D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Client\bin\Release\net452\CarMission.Client.net.dll
+D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Client\bin\Release\net452\CitizenFX.Core.Client.dll
+D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Client\obj\Release\net452\CarMission.Client.csproj.AssemblyReference.cache
+D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Client\obj\Release\net452\CarMission.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Client\obj\Release\net452\CarMission.Client.AssemblyInfoInputs.cache
+D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Client\obj\Release\net452\CarMission.Client.AssemblyInfo.cs
+D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Client\obj\Release\net452\CarMission.Client.csproj.CoreCompileInputs.cache
+D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Client\obj\Release\net452\CarMission.Client.csproj.CopyComplete
+D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Client\obj\Release\net452\CarMission.Client.net.dll
+D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Client\obj\Release\net452\CarMission.Client.csproj.GenerateResource.cache
+D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Client\obj\Release\net452\CarMission.Client.Common.Messages.MessagesResource.resources

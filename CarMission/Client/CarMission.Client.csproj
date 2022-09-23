@@ -1,0 +1,21 @@
+﻿<Project Sdk="CitizenFX.Sdk.Client/0.2.3">
+    <ItemGroup>
+        <Compile Include="../Shared/**/*.cs" />
+    </ItemGroup>
+    <ItemGroup>
+      <None Remove="Missions\CarDeliveryMission\CarDelivery.cs~RF7350b3c.TMP" />
+    </ItemGroup>
+    <ItemGroup>
+      <Compile Update="Common\Messages\MessagesResource.Designer.cs">
+        <DesignTime>True</DesignTime>
+        <AutoGen>True</AutoGen>
+        <DependentUpon>MessagesResource.resx</DependentUpon>
+      </Compile>
+    </ItemGroup>
+    <ItemGroup>
+      <EmbeddedResource Update="Common\Messages\MessagesResource.resx">
+        <Generator>ResXFileCodeGenerator</Generator>
+        <LastGenOutput>MessagesResource.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+    </ItemGroup>
+</Project>

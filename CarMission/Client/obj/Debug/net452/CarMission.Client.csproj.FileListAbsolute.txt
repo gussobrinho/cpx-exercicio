@@ -1,0 +1,7 @@
+D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Client\obj\Debug\net452\CarMission.Client.csproj.AssemblyReference.cache
+D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Client\obj\Debug\net452\CarMission.Client.Common.Messages.MessagesResource.resources
+D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Client\obj\Debug\net452\CarMission.Client.csproj.GenerateResource.cache
+D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Client\obj\Debug\net452\CarMission.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Client\obj\Debug\net452\CarMission.Client.AssemblyInfoInputs.cache
+D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Client\obj\Debug\net452\CarMission.Client.AssemblyInfo.cs
+D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Client\obj\Debug\net452\CarMission.Client.csproj.CoreCompileInputs.cache

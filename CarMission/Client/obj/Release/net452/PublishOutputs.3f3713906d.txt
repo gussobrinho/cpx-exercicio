@@ -1,0 +1,2 @@
+D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Client\bin\Release\net452\publish\CarMission.Client.net.dll
+D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Client\bin\Release\net452\publish\CitizenFX.Core.Client.dll

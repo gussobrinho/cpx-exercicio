@@ -1,0 +1,27 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarMission.Client", "Client\CarMission.Client.csproj", "{5F119558-FA69-4060-BE06-68B6AA952BE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarMission.Server", "Server\CarMission.Server.csproj", "{F8660A69-34A0-419A-A954-E8A800ACA65F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F119558-FA69-4060-BE06-68B6AA952BE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F119558-FA69-4060-BE06-68B6AA952BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F119558-FA69-4060-BE06-68B6AA952BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F119558-FA69-4060-BE06-68B6AA952BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8660A69-34A0-419A-A954-E8A800ACA65F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8660A69-34A0-419A-A954-E8A800ACA65F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8660A69-34A0-419A-A954-E8A800ACA65F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8660A69-34A0-419A-A954-E8A800ACA65F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

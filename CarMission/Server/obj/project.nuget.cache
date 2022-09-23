@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4WZ3nGh5p4seBU0uU8axz3WhSNBxRQj4ve9PJJdcvmPc2J7esWnkBrtAUACqreo2+Nm0rq7RIzZL9U8D0tDicg==",
+  "success": true,
+  "projectFilePath": "D:\\ServerFiveM\\server-content\\server-data\\resources\\[myscripts]\\CarMission\\Server\\CarMission.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gusta\\.nuget\\packages\\citizenfx.core.server\\1.0.5887\\citizenfx.core.server.1.0.5887.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

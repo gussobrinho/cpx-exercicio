@@ -1,0 +1,4 @@
+D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Server\bin\Release\netstandard2.0\publish\CarMission.Server.net.dll
+D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Server\bin\Release\netstandard2.0\publish\CarMission.Server.deps.json
+D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Server\bin\Release\netstandard2.0\publish\CarMission.Server.net.pdb
+D:\ServerFiveM\server-content\server-data\resources\[myscripts]\CarMission\Server\bin\Release\netstandard2.0\publish\CitizenFX.Core.Server.dll
